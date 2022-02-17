@@ -1,4 +1,5 @@
 
+<img width="1126" alt="Screen Shot 2022-02-17 at 2 11 32 PM" src="https://user-images.githubusercontent.com/92756383/154563219-62959f44-0299-4bbe-8dc2-2994e0c44e65.png">
 
 # GlowTextAnimation
 
