@@ -27,40 +27,6 @@ This is a super simple webpage that displays some fun GSAP animations for text a
 * GSAP
 
 
-
-
-<!-- CONTACT -->
-## Contact
-
-Alexandra Christopher - [My Portfolio Site](https://alexmchris.com/) - alexandra.christopher@outlook.com
-
-Live Link: [Click here for the live version!](https://glowanim.netlify.app)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
-
-
-
-You can find the hosted animation [here!](https://glowanim.netlify.app/)
-
 A quick overview of the javascript code:
 ```
 const tl = gsap.timeline({defaults: {duration: 1, ease: "Power3.easeOut"}})
@@ -92,4 +58,36 @@ gsap.fromTo(".letter", { opacity: 0}, { opacity:1, stagger: 0.05, delay: .5});
 
 
 ```
+
+<!-- CONTACT -->
+## Contact
+
+Alexandra Christopher - [My Portfolio Site](https://alexmchris.com/) - alexandra.christopher@outlook.com
+
+Live Link: [Click here for the live version!](https://glowanim.netlify.app)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[forks-url]: https://github.com/github_username/repo_name/network/members
+[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[stars-url]: https://github.com/github_username/repo_name/stargazers
+[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-url]: https://github.com/github_username/repo_name/issues
+[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
+[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/linkedin_username
+[product-screenshot]: images/screenshot.png
+
+
+
+
 
